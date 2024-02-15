@@ -1,6 +1,8 @@
 // example code here
 
 console.log('Hello guys');
+
+import slugify from 'slugify';
 var slugify = required('slugify')
 
 let a = slugify('some string')   //some string
